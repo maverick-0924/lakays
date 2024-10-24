@@ -1085,3 +1085,7 @@ h1 {
 .logo2 {
      height: 80px;
 }
+
+.icons a img {
+     margin: 5px;
+}
